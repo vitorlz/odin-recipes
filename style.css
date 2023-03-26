@@ -1,0 +1,37 @@
+.title{
+    background-color: rgb(85, 215, 172);
+    color: white;
+    font-family: "Brush Script MT", 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+html {
+    background-color: rgb(42, 41, 41);
+}
+
+.links {
+    font-size: 25px;
+    background-color: rgb(206, 232, 223);
+    color: rgb(39, 194, 143);
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: rgb(85, 215, 172);
+}
+
+p {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 0.8cm;
+    font-size: 20px;
+}
+
+ul, ol {
+    color: white;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    line-height: 0.8cm;
+    font-size: 20px;
+
+}
